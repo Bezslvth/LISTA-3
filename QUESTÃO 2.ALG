@@ -5,7 +5,7 @@ Algoritmo "QUESTÃO 2"
 // Autor(a)    : Thiago da Silva Bezerra    CPD: 46095
 // Data atual  : 17/03/2019
 Var
-   i, num: inteiro
+   i, prod: inteiro
 
 Inicio
    para i de 0 ate 9 faca
