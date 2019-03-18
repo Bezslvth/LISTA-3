@@ -1,16 +1,15 @@
-Algoritmo "QUEST√O 2"
+Algoritmo "QUEST√ÉO 2"
 //
 //
-// DescriÁ„o   : Algoritmo que exibe a tabuada de 0 a 9
+// Descri√ß√£o   : Algoritmo que exibe a tabuada de 0 a 9
 // Autor(a)    : Thiago da Silva Bezerra    CPD: 46095
 // Data atual  : 17/03/2019
 Var
    i, num: inteiro
 
 Inicio
-   escreva("escreva um numero de 0 a 9:")
-   leia(num)
    para i de 0 ate 9 faca
-      escreval (num, " x", " i"," =", i * num)
+      prod <- i*9
+      escreval ("9x", i,"=", prod)
    fimpara
 Fimalgoritmo
